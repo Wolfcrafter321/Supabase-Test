@@ -1,4 +1,4 @@
 ﻿{
     "url" : "",
-    "anon-key", ""
+    "anon-key" : ""
 }
