@@ -1,4 +1,4 @@
 ﻿{
-    "url" : "",
-    "anon-key" : ""
+    "url" : "https://here_your_url.supabase.co",
+    "anon-key" : "here.to.anon.key"
 }
